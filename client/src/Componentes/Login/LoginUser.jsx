@@ -177,6 +177,7 @@ const useStyles = makeStyles((theme)=>({
                 />
                 <Typography component={`p`} style={{maxWidth: '350px', fontSize: '14px'}}>  
                   El equipo de CinemApp bajo ninguna circunstancia pedira su correo o contraseña. 
+                  Para iniciar con un usuario de prueba utilice usuario: hola@gmail.com pas: Hola*123
                 </Typography>
                 <FormGroup>
                   <FormControlLabel 
